@@ -73,7 +73,7 @@ Given the overwhelming demand for restaurants, it becomes crucial to examine the
 (6) We were able to scrape the Zomato website successfully and extract around 3,000 records.
 
 
-## key finding Sections 📚
+## Key finding Sections 📚
  
  (1) Area-wise distribution
  (2) cheapest and the most expensive restaurant with respect to cuisine
